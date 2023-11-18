@@ -14,6 +14,10 @@ const ParentGrid = styled.section`
   flex-wrap: wrap;
   gap: 1.5rem;
   justify-content: center;
+  @media (max-width: 768px) {
+    gap:3rem;
+    
+  }
  
   
 `;
