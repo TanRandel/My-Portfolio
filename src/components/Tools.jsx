@@ -26,8 +26,8 @@ const ParentGrid = styled.section`
 const Div = styled.div`
   border-radius: 10px;
   padding: 20px;
-  width: 250px;
-  height: 230px;
+  width: 300px;
+  height: 300px;
   text-align: center;
   transition: transform 0.3s, box-shadow 0.3s; /* Add box-shadow to the transition */
   h2 , p{
