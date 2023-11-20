@@ -11,6 +11,7 @@ import { FaUserCheck } from "react-icons/fa";
 import { PiShareNetworkThin } from "react-icons/pi";
 
 const ParentGrid = styled.section`
+  height: 100vh;
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
